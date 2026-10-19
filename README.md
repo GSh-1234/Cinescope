@@ -2,8 +2,8 @@
 
 A movie search and watchlist app built with **React 18**, **TypeScript**, **Vite** and **Tailwind CSS**, using the [OMDb API](https://www.omdbapi.com/). Built for the Second-Year Web Development recruitment assessment.
 
-- **Live demo:** _add your deployed link here_
-- **Source:** _add your GitHub repo link here_
+- **Live demo:** https://cinescope-omega-seven.vercel.app
+- **Source:** https://github.com/GSh-1234/Cinescope
 
 ---
 
